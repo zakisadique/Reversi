@@ -1,0 +1,12 @@
+<map id="myCode/ReversiBoard.h" name="myCode/ReversiBoard.h">
+<area shape="rect" id="Node000001" title="Definition of the ReversiBoard class." alt="" coords="224,5,385,32"/>
+<area shape="rect" id="Node000002" href="$ReversiBoard_8cpp.html" title="Implementation of the ReversiBoard class functions and related enums." alt="" coords="5,80,180,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,40,131,82,129,77,252,35"/>
+<area shape="rect" id="Node000003" href="$ReversiConsoleView_8h.html" title="Definition of the ReversiConsoleView class." alt="" coords="204,80,405,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,48,307,80,302,80,302,48"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html" title="Entry point for the Reversi board application. It initializes the board and asks the user to make mov..." alt="" coords="380,155,506,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="361,36,392,54,420,78,431,97,439,118,445,154,440,155,434,119,427,99,416,82,389,58,358,41"/>
+<area shape="rect" id="Node000004" href="$ReversiConsoleView_8cpp.html" title="Implementation of the ReversiConsoleView class functions." alt="" coords="141,155,356,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="288,121,260,156,256,153,283,117"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="343,112,420,152,418,156,341,117"/>
+</map>
